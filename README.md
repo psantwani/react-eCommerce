@@ -1,6 +1,6 @@
-# Project Title
+# An eCommerce site
 
-One Paragraph of project description goes here
+A project implementing eCommerce features using react-redux and node.js
 
 ## Getting Started
 
